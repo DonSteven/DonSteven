@@ -1,4 +1,4 @@
-# Hi, I'm Sihan 👋
+# Hi
 
 I'm an AI engineer building tool-using agents and exploring how evaluation and post-training can help them solve real-world tasks.
 
@@ -7,6 +7,14 @@ I'm pursuing an Sc.M. in Electrical and Computer Engineering at Brown University
 [LinkedIn](https://www.linkedin.com/in/sihan-long/)
 
 ## Featured Projects
+
+### [ToolAgent-RL](https://github.com/DonSteven/ToolAgent-RL)
+
+A post-training and evaluation workflow for tool-using agents on long, multi-turn tau2-bench Airline tasks. I distill successful teacher conversations into a 7B policy, collect online tool-use rollouts, and study sparse rewards and long-trajectory training through group-relative policy updates.
+
+`Agentic RL` · `Teacher distillation` · `QLoRA` · `GRPO-style training`
+
+[Explore the repository →](https://github.com/DonSteven/ToolAgent-RL)
 
 ### [Memento Bot](https://github.com/DonSteven/memento-bot)
 
